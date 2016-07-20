@@ -1,0 +1,4 @@
+https://github.com/winkelman/udacity-dand-ab-test/blob/master/report.pdf
+http://napitupulu-jon.appspot.com/portfolio/udacity_abtest_code.html
+https://inquisitive-geek.github.io/A_B_Testing/
+https://github.com/baumanab/udacity_ABTesting
